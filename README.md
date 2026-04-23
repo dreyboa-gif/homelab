@@ -101,7 +101,7 @@ Este projeto proporcionou experiência prática em:
 **Andrey Ferraz**  
 Analista de Cloud Júnior | AWS Cloud Practitioner | COBIT 2019  
 📍 Brasília, Brasil  
-🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)
+🔗 [LinkedIn](https://www.linkedin.com/in/andrey-ferraz-de-araujo/)
 
 ---
 
